@@ -46,6 +46,14 @@ p.bold, .bold {
     text-decoration: underline;
 }
 
+.navbar-new {
+  height: 70px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 1.1rem;
+  background-color: #3B3B3B;
+}
+
 
 /* div.row {
     margin-bottom: 50px;
